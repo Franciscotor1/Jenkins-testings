@@ -1,1 +1,14 @@
-jenkins_home/
+.lastStarted
+.owner
+config.xml
+copy_reference_file.log
+hudson.model.UpdateCenter.xml
+hudson.plugins.git.GitTool.xml
+identity.key.enc
+jenkins.install.InstallUtil.lastExecVersion
+jenkins.install.UpgradeWizard.state
+jenkins.model.JenkinsLocationConfiguration.xml
+jenkins.telemetry.Correlator.xml
+nodeMonitors.xml
+secret.key
+secret.key.not-so-secret
